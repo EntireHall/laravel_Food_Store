@@ -44,7 +44,8 @@
                         </button>
                         <div class="lgx-logo"> <!--lgx-logo-default lgx-logo-fixed lgx-logo-white lgx-logo-black-->
                             <a href="{{ route('home') }}" class="lgx-scroll">
-                                <img src="{{ asset('assets/img/logo2.png') }}" alt="Logo"/>
+                                {{-- <img src="{{ asset('assets/img/logo.jpg') }}" alt="Logo"/> --}}
+                                LOG
                             </a>
                         </div>
                     </div>
