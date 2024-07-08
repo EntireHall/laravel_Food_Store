@@ -72,21 +72,21 @@
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="about-top-single">
-                            <a href="#"><img src="{{ asset('assets/img/dine-in.png')}}" alt="about-icon"></a>
+                            <a href="#"><img src="{{ secure_asset('assets/img/dine-in.png')}}" alt="about-icon"></a>
                             <h3 class="title"><a href="#">Fine Dining</a></h3>
                             <p>Experience authentic Indian and Halal cuisine with our premier dine-in services, offering a rich variety of flavorful dishes in a warm and welcoming atmosphere.</p>
                         </div>
                     </div>
                     <div class="col-sm-4">
                         <div class="about-top-single">
-                            <a href="#"><img src="{{ asset('assets/img/food-delivery_6425633.png') }}" alt="about-icon"></a>
+                            <a href="#"><img src="{{ secure_asset('assets/img/food-delivery_6425633.png') }}" alt="about-icon"></a>
                             <h3 class="title"><a href="#">Takeaway</a></h3>
                             <p>Enjoy authentic Indian and Halal cuisine delivered to your door with our convenient takeaway service.</p>
                         </div>
                     </div>
                     <div class="col-sm-4">
                         <div class="about-top-single">
-                            <a href="#"><img src="{{ asset('assets/img/buffet-23.png')}}" alt="about-icon"></a>
+                            <a href="#"><img src="{{ secure_asset('assets/img/buffet-23.png')}}" alt="about-icon"></a>
                             <h3 class="title"><a href="#">Buffet</a></h3>
                             <p>Experience a diverse and delectable buffet featuring authentic Indian and Halal cuisine, catering to all your culinary desires</p>
                         </div>

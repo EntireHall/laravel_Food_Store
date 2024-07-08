@@ -7,7 +7,7 @@
                 <div class="lgx-footer-area">
                     <div class="lgx-footer-single">
                         <a class="logo" href="{{ route('home') }}">
-                            <img src="{{ asset('assets/img/logo.jpg') }}" alt="Logo">
+                            <img src="{{ secure_asset('assets/img/logo.jpg') }}" alt="Logo">
                         </a>
                         <address>
                             <i class="fa fa-map-marker"></i>
